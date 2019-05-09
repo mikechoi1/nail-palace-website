@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "7b350089517edfd4af10",
-    "url": "/nail-palace-website/static/css/main.958965c5.chunk.css"
+    "revision": "18b803fcde93e522f099",
+    "url": "/nail-palace-website/static/css/main.020ed55d.chunk.css"
   },
   {
-    "revision": "7b350089517edfd4af10",
+    "revision": "18b803fcde93e522f099",
     "url": "/nail-palace-website/static/js/main.75d1abcd.chunk.js"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/nail-palace-website/static/media/storefront.e3d4d0d9.jpeg"
   },
   {
-    "revision": "d09c7f7047577cfe3786a59b620649e9",
+    "revision": "815c6a9b0873519b473f95e386afc630",
     "url": "/nail-palace-website/index.html"
   }
 ];
