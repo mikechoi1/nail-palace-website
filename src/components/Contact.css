@@ -49,7 +49,7 @@
     text-align: center;
 
     /* Background styles */
-    background-image: linear-gradient(rgba(0, 0, 0, 0.3),rgba(0, 0, 0, 0.5)), url(/storefront.jpeg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3),rgba(0, 0, 0, 0.5)), url(./images/storefront.jpeg);
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
