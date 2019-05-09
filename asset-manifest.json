@@ -1,13 +1,13 @@
 {
-  "main.css": "/nailpalacescv.com/static/css/main.b3acc589.chunk.css",
-  "main.js": "/nailpalacescv.com/static/js/main.254a5963.chunk.js",
-  "main.js.map": "/nailpalacescv.com/static/js/main.254a5963.chunk.js.map",
-  "runtime~main.js": "/nailpalacescv.com/static/js/runtime~main.f3bd4ebf.js",
-  "runtime~main.js.map": "/nailpalacescv.com/static/js/runtime~main.f3bd4ebf.js.map",
-  "static/js/2.516876f8.chunk.js": "/nailpalacescv.com/static/js/2.516876f8.chunk.js",
-  "static/js/2.516876f8.chunk.js.map": "/nailpalacescv.com/static/js/2.516876f8.chunk.js.map",
-  "index.html": "/nailpalacescv.com/index.html",
-  "precache-manifest.f4990f6504260b2f1f9be44f3b4ebc38.js": "/nailpalacescv.com/precache-manifest.f4990f6504260b2f1f9be44f3b4ebc38.js",
-  "service-worker.js": "/nailpalacescv.com/service-worker.js",
-  "static/css/main.b3acc589.chunk.css.map": "/nailpalacescv.com/static/css/main.b3acc589.chunk.css.map"
+  "main.css": "/nail-palace-website/static/css/main.b3acc589.chunk.css",
+  "main.js": "/nail-palace-website/static/js/main.254a5963.chunk.js",
+  "main.js.map": "/nail-palace-website/static/js/main.254a5963.chunk.js.map",
+  "runtime~main.js": "/nail-palace-website/static/js/runtime~main.c1200dd7.js",
+  "runtime~main.js.map": "/nail-palace-website/static/js/runtime~main.c1200dd7.js.map",
+  "static/js/2.516876f8.chunk.js": "/nail-palace-website/static/js/2.516876f8.chunk.js",
+  "static/js/2.516876f8.chunk.js.map": "/nail-palace-website/static/js/2.516876f8.chunk.js.map",
+  "index.html": "/nail-palace-website/index.html",
+  "precache-manifest.f3cd8db349656b4365fecee98035e12c.js": "/nail-palace-website/precache-manifest.f3cd8db349656b4365fecee98035e12c.js",
+  "service-worker.js": "/nail-palace-website/service-worker.js",
+  "static/css/main.b3acc589.chunk.css.map": "/nail-palace-website/static/css/main.b3acc589.chunk.css.map"
 }

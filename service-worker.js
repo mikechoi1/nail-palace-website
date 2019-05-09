@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/nailpalacescv.com/precache-manifest.f4990f6504260b2f1f9be44f3b4ebc38.js"
+  "/nail-palace-website/precache-manifest.f3cd8db349656b4365fecee98035e12c.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/nailpalacescv.com/index.html", {
+workbox.routing.registerNavigationRoute("/nail-palace-website/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
