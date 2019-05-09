@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/nail-palace-website/precache-manifest.f3cd8db349656b4365fecee98035e12c.js"
+  "/nail-palace-website/precache-manifest.1c64accf516fbc997fab48f824fa220e.js"
 );
 
 workbox.clientsClaim();
